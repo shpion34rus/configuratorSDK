@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.08.04 15:41:00.951,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.08.04 15:41:01.014,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.08.04 15:41:44.395,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\configuratorSDK\MainUnit.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.08.04 15:41:44.395,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\configuratorSDK\MainUnit.cpp=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.08.04 15:41:44.395,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\configuratorSDK\MainUnit.dfm=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.08.04 15:41:49.673,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\configuratorSDK\ConfSDKPCH1.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.08.04 15:41:58.314,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\configuratorSDK\configuratorSDK.cbproj=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
